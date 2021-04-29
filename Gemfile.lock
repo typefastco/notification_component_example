@@ -69,6 +69,8 @@ GEM
     crass (1.0.6)
     erubi (1.10.0)
     ffi (1.15.0)
+    font_awesome5_rails (1.4.0)
+      railties (>= 4.2)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     hotwire-rails (0.1.3)
@@ -183,6 +185,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
+  font_awesome5_rails
   hotwire-rails
   jbuilder (~> 2.7)
   listen (~> 3.3)

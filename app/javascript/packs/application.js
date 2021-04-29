@@ -9,6 +9,7 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 
 require('stylesheets/application.scss')
+require('@fortawesome/fontawesome-free/css/all.css')
 
 Rails.start()
 ActiveStorage.start()
